@@ -2,13 +2,24 @@
 
 > A Vue.js project
 
+## Installation
+
+1. Install nvm
+2. Use node v8.17.0 (npm v6.13.4)
+
+## Server installation
+
+1. `cd server`
+2. `npm install`
+3. `npm start`
+
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at http://localhost:8080/
 npm run dev
 
 # build for production with minification
